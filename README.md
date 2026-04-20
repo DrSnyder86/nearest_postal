@@ -1,3 +1,11 @@
+# Nearest Postal Edit
+Postal edit that removes the "Nearest Postal" display. Optional edit for Improved font and display.
+Currently setup with ocrp postal map
+
+#Optional Display Edit (config.lua)
+format = '', -- Removed postal on-screen display
+format = '~w~~w~%s', -- Reformatted to remove the "Postal" text and just show the code. Improves readability and reduces clutter on the screen.
+
 # Nearest Postals
 
 This script displays the nearest postal next to map, and allows you to navigate to specific postal codes with `/postal`
