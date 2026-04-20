@@ -4,7 +4,7 @@
 
 # Optional Display Edit (config.lua)
 - format = '', -- Removed postal on-screen display
-- format = '~w~~w~%s', -- Reformatted to remove the "Postal" text and just show the code. Improves readability and reduces clutter on the screen.
+- format = '~w~~w~%s', -- Reformatted to remove the "Nearest Postal" text and just show the number code. Improves readability and reduces clutter on the screen.
 
 # Nearest Postals
 
