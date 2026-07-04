@@ -10,6 +10,10 @@
 
 This script displays the nearest postal next to map, and allows you to navigate to specific postal codes with `/postal`
 
+## Credit
+### DevBlocky
+### https://github.com/DevBlocky/nearest-postal
+
 ## Installation
 
 1. There are 2 ways to install it, and I recommend the first
